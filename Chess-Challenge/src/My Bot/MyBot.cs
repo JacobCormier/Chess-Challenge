@@ -1,4 +1,6 @@
-﻿using ChessChallenge.API;
+﻿//https://seblague.github.io/chess-coding-challenge/documentation/
+
+using ChessChallenge.API;
 
 public class MyBot : IChessBot
 {
